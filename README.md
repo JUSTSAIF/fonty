@@ -1,2 +1,3 @@
 # fonty
-Discord bot, gives you different styles of Arabic fonts
+Discord bot, gives you different styles of EN fonts ✒
+
