@@ -1,15 +1,12 @@
 import axios from 'axios'
 import FormData from 'form-data'
 import jsdom from 'jsdom'
-import express from 'express'
 import Discord from 'discord.js'
 import fs from 'fs'
 const client = new Discord.Client();
 const config = JSON.parse(fs.readFileSync('bot.json', 'utf8'));
 const prefix = config.PREFIX
 
-express()
-    .listen(process.env.PORT || 5000)
 
 const getFonts = async (text) => {
     var embed = new Discord.MessageEmbed({})
