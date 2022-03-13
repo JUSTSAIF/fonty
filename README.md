@@ -15,3 +15,9 @@ u!dev        -    Info
 u!help       -    help & Commands
 ----
 ```
+
+
+
+
+
+![](https://github.com/JUSTSAIF/fonty/blob/main/screen.png?raw=true)
