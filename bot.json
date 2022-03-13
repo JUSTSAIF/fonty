@@ -1,0 +1,12 @@
+{
+    "TOKEN": "TOKEN HERE",
+    "BOT_NAME": "Fonty",
+    "BOT_STATUS": "type `u!help` for help ^ω^",
+    "PREFIX": "u!",
+    "PROGRAMMER_NAME": "Mr28 | Saif",
+    "images": {
+        "icon": "https://media.discordapp.net/attachments/847712630500098068/865746807341973544/luffyIcon.gif",
+        "cover": "https://media.discordapp.net/attachments/847712630500098068/866082817045037106/hmmm.gif",
+        "contact": "https://media.discordapp.net/attachments/847712630500098068/865776904351121468/animeComp.gif"
+    }
+}
